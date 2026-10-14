@@ -1,0 +1,7 @@
+shadow prebuilt repo: jdk17 (host)
+  upstream: prebuilts/jdk/jdk17
+  role: host
+  api-level: universal (branch universal-20261014; host JDK is API-agnostic)
+  layout: extracted Linux x86_64 host OpenJDK 17 runtime (with root Android.bp retained)
+  sync path: prebuilts/host/jdk/jdk17 (with compat link to prebuilts/jdk/jdk17)
+  date: 2026-10-14
